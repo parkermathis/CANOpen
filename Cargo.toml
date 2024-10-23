@@ -1,0 +1,7 @@
+[package]
+name = "CANOpen"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+CANlib = { git = "https://www.github.com/parkermathis/Canlib.git" }
